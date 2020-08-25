@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from random import choice
 import pyrebase
 firebaseConfig = {
-  "apiKey": "AIzaSyAHF0boQBojwlaGKfeHlFy_VOtquOr0aqM",
+  "apiKey": "INSERT FIREBASE API KEY HERE",
   "authDomain": "groot-blog.firebaseapp.com",
   "databaseURL": "https://groot-blog.firebaseio.com",
   "projectId": "groot-blog",
